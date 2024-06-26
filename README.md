@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I started programming at 15 years old. ¡Love Trumpet!
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/luis enrique miranda hoyos](https://www.linkedin.com/in/luis-enrique-miranda-h/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis enrique miranda hoyos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-enrique-miranda-h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis enrique miranda hoyos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
