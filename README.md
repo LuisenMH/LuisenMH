@@ -5,7 +5,7 @@
 - 📫 How to reach me: luisen.mh@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started programming at 15 years old. ¡Love playing Trumpet!
-- <h3 align="left">Connect with me:</h3>
+- <h3 align="left">Connect me by:</h3>
 </p>
 <div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/luis-enrique-miranda-h/" target="blank" style="margin-right: 300px;">
