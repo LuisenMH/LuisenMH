@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate projects with learning oportunities!
 - 📫 How to reach me: luisen.mh@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started programming at 15 years old. ¡Love playing Trumpet!
+- ⚡ Fun fact: I started programming at 15 years old. ¡Love playing Trumpet and learning new languages!
 - <h3 align="left">Contact me by:</h3>
 </p>
 <div style="display: flex; align-items: center;">
