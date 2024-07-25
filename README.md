@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuisenMH
+- 👋 Hi, I’m Luis MH
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently studying a degree on Business Inteligence
 - 💞️ I’m looking to collaborate projects with learning oportunities!
